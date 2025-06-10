@@ -25,7 +25,7 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot built in Python. It analy
    ```bash
    git clone https://github.com/Wambita/crypto-chatbot.git
    cd crypto-chatbot
-````
+   ```
 
 2. **Ensure Python is installed**:
 
@@ -102,7 +102,5 @@ Feel free to use, modify, and share — just credit the author!
 
 ##  Screenshots
 ![Conversation](screenshots/conversation.png)
-
-
 
 
