@@ -101,7 +101,7 @@ Feel free to use, modify, and share — just credit the author!
 ---
 
 ##  Screenshots
-![Conversation](/screenshots/conversation.png)
+![Conversation](screenshots/conversation.png)
 
 
 
