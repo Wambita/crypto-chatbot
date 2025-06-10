@@ -101,7 +101,7 @@ Feel free to use, modify, and share — just credit the author!
 ---
 
 ##  Screenshots
-<img src="/screenshots/conversation.png" alt="Alt Text" width="300"/>
+![Conversation](/screenshots/conversation.png)
 
 
 
